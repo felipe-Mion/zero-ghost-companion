@@ -100,8 +100,8 @@ O jogo **ainda não está implementado**. Os comandos de instalação e execuç�
 
 ## 👥 Integrantes
 
-- **Nome(s):** preencher
-- **Turma:** preencher
+- **Nome(s):** Felipe Mion de Andrade RM 553715
+- **Turma:** 4SIZ
 
 ## ⚖️ Créditos e direitos autorais
 
