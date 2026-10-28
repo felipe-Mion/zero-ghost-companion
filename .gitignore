@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Ambiente e configurações locais
+.env
+.env.*
+!.env.example
+
+# IDE e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Mídia gerada durante testes
+*.mp4
+*.avi
+*.mov
